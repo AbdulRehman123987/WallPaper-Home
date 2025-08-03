@@ -26,7 +26,8 @@ A beautifully crafted **React Native** application that lets users explore, sear
 ## 👨‍💻 Author
 
 **Abdul Rehman**  
-📧 rehmanmirza458@gmail.com  
+📧 rehmanmirza458@gmail.com 
+🌍 [Visit My Portfolio](abdulrehmandev.vercel.app) 
 💼 React Native & MERN Stack Developer  
 📍 Pakistan  
 
