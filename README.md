@@ -20,7 +20,7 @@ A beautifully crafted **React Native** application that lets users explore, sear
 
 ## 📸 Screenshots
 
-| ![Home](./screenshots/home.png) 
+| ![Home](./src/assets/Thumbnail%20(2).png) 
 
 
 ## 👨‍💻 Author
